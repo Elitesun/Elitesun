@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>I’m elitesun, a passionate developer with expertise in Python, Django, JavaScript,Figma and web development. I love building innovative solutions, contributing to open-source projects, and exploring cutting-edge technologies.<br><br>- 🔭 I’m currently working on an Invoice/billing Website .<br>- 🌱 I’m learning nodejs/nextjs.<br>- 👯 I’m looking to collaborate on web applications.<br>- 💬 Ask me about anything you enjoy<br>- 📫 Reach me at: elitesun.dev@gmail.com<br>- ⚡ Fun fact: Love GAMING and Designing<br>
+### Hi there 👋<br><br>I’m elitesun, a passionate developer with expertise in Python, Django, JavaScript,Figma and web development. I love building innovative solutions, contributing to open-source projects, and exploring cutting-edge technologies.<br><br>- 🔭 I’m currently working on an Invoice/billing Website .<br>- 🌱 I’m learning Vue.js/nuxt.js.<br>- 👯 I’m looking to collaborate on web applications.<br>- 💬 Ask me about anything you enjoy<br>- 📫 Reach me at: elitesun.dev@gmail.com<br>- ⚡ Fun fact: Love GAMING and Designing<br>
 
 
 ## 🌐 Socials:
