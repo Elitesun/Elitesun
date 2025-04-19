@@ -133,7 +133,7 @@ Delivering exceptional value to clients daily while fostering a deep appreciatio
 <a href="https://www.linkedin.com/in/alex-sunday-5942b5328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Sunday LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/elitesun2004?igsh=YzljYTk1ODg3Zg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Elite Sun Instagram" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1E9s4aXbzc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Alex Sunday Facebook" height="30" width="40" /></a>
-<a href="https://t.me/Sun_elite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Sun Elite Telegram" height="30" width="40" /></a>
+<a href="https://t.me/Sun_elite" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Sun Elite Telegram" height="30" width="40" /></a>
 </div>
 
 ---
