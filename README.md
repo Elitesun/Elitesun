@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There,+it's+me+Alex!;Your+friendly+neighborhood+developer.;😉" alt="Intro" /> 
 </p>
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm elitesun</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm elitesun</h1> 
 
 ---
 
@@ -117,6 +117,7 @@
 <a href="https://www.instagram.com/elitesun2004?igsh=YzljYTk1ODg3Zg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Elite Sun Instagram" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1E9s4aXbzc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Alex Sunday Facebook" height="30" width="40" /></a>
 <a href="https://t.me/Sun_elite" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Sun Elite Telegram" height="30" width="40" /></a>
+<a href="https://www.elitesun.me/" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/globe--v1.png" alt="Portfolio" height="30" width="40" /></a>
 </div>
 
 ---
