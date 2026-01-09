@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./me.png" alt="=LITE sun" style="width:100%; height:500px; object-fit: cover;">
+</p>
 <img style="width:100%;height:3px;" src="./bar.gif" />
 
 <p align="center">
@@ -6,18 +9,6 @@
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40"> I'm elitesun</h1>
 
-❤️ Passionate about Computer Science since childhood... Yes, it's not just something I do—I love it and dedicate myself fully to it.  
-This passion drives me with a knowledge-seeking mindset!
-
-### 🚀 Experience:
-
-- **Designing and building web applications:**  
-  E-commerce, Landing Pages, Forms, Company Platforms... many, many more!
-
-### 🎯 My Goal:
-
-Delivering exceptional value to clients daily while fostering a deep appreciation and passion for the field of technology.
-
 ---
 
 ## My dev tools 🫰
@@ -25,14 +16,6 @@ Delivering exceptional value to clients daily while fostering a deep appreciatio
 <table align="center" cellpadding="10"> 
     <!-- First Row: Languages and Frameworks -->
     <tr>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
-            <br>HTML
-        </td>
-        <td align="center" width="90">
-          <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
-          <br>CSS
-        </td>
         <td align="center" width="90">
           <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
           <br>Tailwind
@@ -130,7 +113,7 @@ Delivering exceptional value to clients daily while fostering a deep appreciatio
 
 <div align="center">
 <h2 align="center">Connect with me: </h2>
-<a href="https://www.linkedin.com/in/alex-sunday-5942b5328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Sunday LinkedIn" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/elitesun-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alex Sunday LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/elitesun2004?igsh=YzljYTk1ODg3Zg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Elite Sun Instagram" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1E9s4aXbzc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Alex Sunday Facebook" height="30" width="40" /></a>
 <a href="https://t.me/Sun_elite" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Sun Elite Telegram" height="30" width="40" /></a>
