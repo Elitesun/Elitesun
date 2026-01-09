@@ -124,28 +124,17 @@
 
 <!--Statistics -->
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> My Stats
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> 
 
-<!-- A resume of my stats -->
 <table cellpadding="0" border="0" width="100%">
   <!-- First Row: GIF spanning full width -->
   <tr>
-    <td colspan="2" align="center">
+    <td align="center">
       <img alt="Coding" width="800" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif">
     </td>
   </tr>
-  <!-- Second Row: GitHub Stats & Top Languages sharing the row equally -->
-  <tr>
-    <td width="50%" align="center">
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=Elitesun&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elitesun&count_private=true&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&hide=html,css,plsql,ejs&custom_title=Top%20Languages" alt="Elitesun :: Top Langs" />
-    </td>
-  </tr>
 </table>
-<!--counter -->
-<p align="center"><img src="https://profile-counter.glitch.me/{Elitesun}/count.svg"></p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
