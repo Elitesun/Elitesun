@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./me.png" alt="=LITE sun" style="width:100%; height:500px; object-fit: cover;">
+  <img src="./Frame 23.png" alt="=LITE sun" ">
 </p>
 <img style="width:100%;height:3px;" src="./bar.gif" />
 
